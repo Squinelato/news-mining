@@ -1,0 +1,22 @@
+Date: Fri, 17 Aug 2018 15:31:26 GMT
+Server: SS
+Last-Modified: Fri, 17 Aug 2018 15:31:26 GMT
+Cache-Control: no-cache, must-revalidate, post-check=0, pre-check=0
+Blocked: TRUE
+X-Xss-Protection: 1;mode=block
+Topo: true
+Rodape: true
+Vary: Accept-Encoding
+X-Backend: as-psc45652-20180607195435.cmal22be-89.cp.globoi.com
+Content-Type: text/html; charset=utf-8
+Age: 1638
+X-Age: 1638
+X-Cache-Host: as-vip7-pub44775-20171102003014
+X-Cache: HIT
+X-Cache-Hits: 1
+Accept-Ranges: bytes
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer
+Content-Encoding: gzip
+Strict-Transport-Security: max-age=60
